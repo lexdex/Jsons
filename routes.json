@@ -1,0 +1,290 @@
+{
+  "1": [
+    "IvanoFrankivsk",
+    "Striy",
+    "Hodoriv",
+    "Ternopil",
+    "Hmelnitskiy",
+    "Jmerinka",
+    "Slobidka",
+    "Pomichna",
+    "Kirovograd",
+    "KriviyRig",
+    "Zaporizzya",
+    "Dnipro",
+    "Konstantinivka"
+  ],
+  "2": [
+    "IvanoFrankivsk",
+    "Striy",
+    "Hodoriv",
+    "Ternopil",
+    "Hmelnitskiy",
+    "Jmerinka",
+    "Slobidka",
+    "Pomichna",
+    "Kirovograd",
+    "KriviyRig",
+    "Zaporizzya",
+    "Dnipro",
+    "Konstantinivka"
+  ],
+  "12": [
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Hmelnitskiy",
+    "Jmerinka",
+    "Slobidka",
+    "Rozdilna",
+    "Odessa"
+  ],
+  "13": [
+    "Odessa",
+    "Rozdilna",
+    "Slobidka",
+    "Jmerinka",
+    "Hmelnitskiy",
+    "Ternopil",
+    "Krasne",
+    "Lviv"
+  ],
+  "17": [
+    "Uzgorod",
+    "Sambir",
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Shepetivka",
+    "Novograd-Volinskiy",
+    "Jitmir",
+    "Fastiv",
+    "Kyiv",
+    "Hrebinka",
+    "Romodan",
+    "Poltava",
+    "Harkiv"
+  ],
+  "18": [
+    "Harkiv",
+    "Poltava",
+    "Romodan",
+    "Hrebinka",
+    "Kyiv",
+    "Fastiv",
+    "Jitmir",
+    "Novograd-Volinskiy",
+    "Shepetivka",
+    "Ternopil",
+    "Krasne",
+    "Lviv",
+    "Sambir",
+    "Uzgorod"
+  ],
+  "42": [
+    "Truskavets",
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Shepetivka",
+    "Novograd-Volinskiy",
+    "Jitmir",
+    "Fastiv",
+    "Kyiv",
+    "Hrebinka",
+    "Romodan",
+    "Poltava",
+    "Krasnograd",
+    "Dnipro"
+  ],
+  "43": [
+    "Dnipro",
+    "Krasnograd",
+    "Poltava",
+    "Hrebinka",
+    "Romodan",
+    "Kyiv",
+    "Fastiv",
+    "Jitmir",
+    "Novograd-Volinskiy",
+    "Shepetivka",
+    "Ternopil",
+    "Krasne",
+    "Lviv",
+    "Truskavets"
+  ],
+  "97": [
+    "Kyiv",
+    "Korosten",
+    "Sarni",
+    "Kovel"
+  ],
+  "110": [
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Hmelnitskiy",
+    "Jmerinka",
+    "Slobidka",
+    "Pomichne",
+    "Kolosivka",
+    "Mikolayiv"
+  ],
+  "111": [
+    "Mikolayiv",
+    "Kolosivka",
+    "Pomichne",
+    "Slobidka",
+    "Jmerinka",
+    "Hmelnitskiy",
+    "Ternopil",
+    "Krasne",
+    "Lviv"
+  ],
+  "120": [
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Shepetivka",
+    "Novograd-Volinskiy",
+    "Jitmir",
+    "Fastiv",
+    "Kyiv",
+    "Hrebinka",
+    "Romodan",
+    "Poltava",
+    "Krasnograd",
+    "Dnipro",
+    "Zaporizhzia"
+  ],
+  "121": [
+    "Zaporizhzia",
+    "Dnipro",
+    "Krasnograd",
+    "Poltava",
+    "Hrebinka",
+    "Romodan",
+    "Kyiv",
+    "Fastiv",
+    "Jitmir",
+    "Novograd-Volinskiy",
+    "Shepetivka",
+    "Ternopil",
+    "Krasne",
+    "Lviv"
+  ],
+  "136": [
+    "Chernivtsi",
+    "Kolomiya",
+    "Ivano-Frankivsk",
+    "Hodoriv",
+    "Ternopil",
+    "Hmelnitskiy",
+    "Jmerinka",
+    "Slobidka",
+    "Rozdilna",
+    "Odessa"
+  ],
+  "137": [
+    "Odessa",
+    "Rozdilna",
+    "Slobidka",
+    "Jmerinka",
+    "Hmelnitskiy",
+    "Ternopil",
+    "Hodoriv",
+    "Ivano-Frankivsk",
+    "Kolomiya",
+    "Chernivtsi"
+  ],
+  "142": [
+    "Lviv",
+    "Rava-Ruska",
+    "Chervonograd",
+    "Volodimir-Volinskiy",
+    "Kovel"
+  ],
+  "143": [
+    "Kovel",
+    "Volodimir-Volinskiy",
+    "Chervonograd",
+    "Rava-Ruska",
+    "Lviv"
+  ],
+  "606": [
+    "Lviv",
+    "Striy",
+    "Ivano-Frankivsk",
+    "Dilyatin",
+    "Rahiv"
+  ],
+  "607": [
+    "Rahiv",
+    "Dilyatin",
+    "Ivano-Frankivsk",
+    "Striy",
+    "Lviv"
+  ],
+  "726": [
+    "Kyiv",
+    "Nigin",
+    "Konotop",
+    "Vorozba",
+    "Sumi",
+    "Trostyanets",
+    "Kharkiv"
+  ],
+  "743": [
+    "Kyiv",
+    "Fastiv",
+    "Jitomir",
+    "Novograd-Volinskiy",
+    "Shepetivka",
+    "Ternopil",
+    "Krasne",
+    "Lviv"
+  ],
+  "744": [
+    "Lviv",
+    "Krasne",
+    "Ternopil",
+    "Shepetivka",
+    "Novograd-Volinskiy",
+    "Jitomir",
+    "Fastiv",
+    "Kyiv"
+  ],
+  "775": [
+    "Kharkiv",
+    "Trostyanets",
+    "Sumi",
+    "Vorozba",
+    "Konotop",
+    "Nigin",
+    "Kyiv"
+  ],
+  "780": [
+    "Kyiv",
+    "Nigin",
+    "Konotop",
+    "Vorozba",
+    "Sumi"
+  ],
+  "781": [
+    "Sumi",
+    "Vorozba",
+    "Konotop",
+    "Nigin",
+    "Kyiv"
+  ],
+  "806": [
+    "Lviv",
+    "Krasne",
+    "Rivne"
+  ],
+  "807": [
+    "Rivne",
+    "Krasne",
+    "Lviv"
+  ]
+}
